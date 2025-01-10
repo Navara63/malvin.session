@@ -65,11 +65,11 @@ router.get('/', async (req, res) => {
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘⚡ ᴍᴀʟᴠɪɴ-ᴋɪɴɢ ⚡𖥘
+❶ || Creator = 𖥘⚡ SAMITHA-MD ⚡𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/263780166288
+❸ || Owner = https://wa.me/94741670274
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❺ || Bot Repo = https://github.com/kingmalvn/RAVENS-MD
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
